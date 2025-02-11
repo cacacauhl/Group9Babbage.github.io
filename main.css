@@ -569,6 +569,7 @@ textarea{
 @media print{
     body *{
         visibility: hidden;
+        color: black;
     }
 
     .non_print_area{
